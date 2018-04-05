@@ -44,8 +44,8 @@
 
 .layer-switcher button {
     float: right;
-    z-index: 1
-    font-size: x-large;;
+    z-index: 1;
+    font-size: x-large;
     position: absolute;
     right: 0px;
     top: 0px;
